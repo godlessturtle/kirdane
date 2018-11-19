@@ -1,0 +1,21 @@
+CKEDITOR.plugins.setLang('youtube', 'en', {
+	button : 'Bir youtube videosu ekle',
+	title : 'Bir youtube videosu ekle',
+	txtEmbed : 'Embed kodunu buraya yapıştırın',
+	txtUrl : 'Youtube video urlsini buraya yapıştırın',
+	txtWidth : 'Genişlik',
+	txtHeight : 'Yükseklik',
+	chkRelated : 'Video sonunda önerilen videoları göster',
+	txtStartAt : '(ss veya mm:ss veya hh:mm:ss) dan başla',
+	chkPrivacy : 'Enable privacy-enhanced mode',
+	chkOlderCode : 'Eski bir embed kodu kullan',
+	noCode : 'Bir embed kodu veya url girmek zorundasınız',
+	invalidEmbed : 'Girdiğiniz embed kodu geçerli değil',
+	invalidUrl : 'Girdğiniz url geçerli değil',
+	or : 'Veya',
+	noWidth : 'Genişlik belirtmelisiniz.',
+	invalidWidth : 'Geçerli bir genişlik belirtin',
+	noHeight : 'Yükseklik belirtmelisiniz.',
+	invalidHeight : 'Geçerli bir yükseklik belirtin',
+	invalidTime : 'Geçerli bir başlangıç/bitiş süresi girin'
+});
